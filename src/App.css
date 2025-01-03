@@ -15,7 +15,7 @@ body {
   padding: 40px; /* Increased padding for larger screen */
   background: none; /* Removed white background */
   border-radius: 10px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Larger box shadow for better visual appeal */
+  /*box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); * / /* Larger box shadow for better visual appeal */
 }
 
 .header {
