@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-fll-timer/static/css/main.e2a7f06f.css",
+    "main.js": "/react-fll-timer/static/js/main.6340bd60.js",
+    "static/js/488.9c92ff38.chunk.js": "/react-fll-timer/static/js/488.9c92ff38.chunk.js",
+    "static/media/endgame.mp3": "/react-fll-timer/static/media/endgame.c722eca0ff32fefa428f.mp3",
+    "static/media/logo.png": "/react-fll-timer/static/media/logo.9fca74a454381e354b49.png",
+    "index.html": "/react-fll-timer/index.html",
+    "main.e2a7f06f.css.map": "/react-fll-timer/static/css/main.e2a7f06f.css.map",
+    "main.6340bd60.js.map": "/react-fll-timer/static/js/main.6340bd60.js.map",
+    "488.9c92ff38.chunk.js.map": "/react-fll-timer/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a7f06f.css",
+    "static/js/main.6340bd60.js"
+  ]
+}
